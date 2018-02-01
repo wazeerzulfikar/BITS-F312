@@ -7,6 +7,7 @@ Neural Networks and Fuzzy Logic - BITS Goa
 
 - https://docs.scipy.org/doc/ (NumPy Documentation)
 - https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python (Pandas)
+- http://cs231n.github.io/ipython-tutorial/ (Jupyter Notebook)
 
 ### Basics of Neural Networks
 
