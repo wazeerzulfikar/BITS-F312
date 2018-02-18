@@ -16,3 +16,7 @@ Neural Networks and Fuzzy Logic - BITS Goa
 ### Basics of Neural Networks
 
 - http://neuralnetworksanddeeplearning.com/
+
+### Backpropagation Tutorial
+
+- http://neuralnetworksanddeeplearning.com/chap2.html
