@@ -20,3 +20,13 @@ Neural Networks and Fuzzy Logic - BITS Goa
 ### Backpropagation Tutorial
 
 - http://neuralnetworksanddeeplearning.com/chap2.html
+
+### Keras Tutorials
+- https://github.com/fchollet/keras-resources
+
+### Recurrent Networks
+- http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+
+- https://keras.io/layers/recurrent/
+
+- http://adventuresinmachinelearning.com/keras-lstm-tutorial/
