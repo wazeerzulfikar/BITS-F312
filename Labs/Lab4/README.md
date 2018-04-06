@@ -21,6 +21,6 @@ The dataset consists of two text files (verb.txt and adjective.txt)
 
 ## Evaluation
 
-Groups of two
-Accuracy on whole dataset will be checked (Due to shortage of time and problem nature)
-Open Internet
+- Groups of two
+- Accuracy on whole dataset will be checked (Due to shortage of time and problem nature)
+- Open Internet
